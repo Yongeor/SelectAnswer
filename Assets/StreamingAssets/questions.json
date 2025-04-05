@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "topic": "下列哪个是太阳系的行星？",
+      "options": ["太阳", "木星", "月亮", "彗星"],
+      "correctAnswer": "木星"
+    },
+    {
+      "topic": "地球的卫星叫什么？",
+      "options": ["月球", "木星", "火星", "彗星"],
+      "correctAnswer": "月球"
+    }
+  ]
+}
