@@ -6,3 +6,5 @@ Select.sln
 obj/
 Logs/
 Library/
+BackEnd/SelectASP/.vs/
+BackEnd/SelectASP/SelectASP/bin/
